@@ -1,0 +1,6 @@
+main: sh.bitcru.ezmode.EzMode
+name: EzMode
+author: by77er
+version: 1.0.0
+description: Changes the difficulty when certain players join
+api-version: 1.16
