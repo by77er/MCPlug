@@ -5,3 +5,12 @@
 | ezmode | Changes the difficulty when certain players are online                |
 | hoe    | Makes hoes auto-replant some crops and fixes fortune's effect on wheat|
 | nopvp  | Reduces a player's max health as a penalty for killing another player |
+
+
+---
+## Building
+```bash
+cd <plugin dir>
+./gradlew jar
+```
+This will create `<plugin dir>/build/lib/<plugin name>.jar`.
