@@ -1,0 +1,6 @@
+name: Hoe
+version: 1.0.0
+author: by77er
+main: sh.bitcru.hoe.Hoe
+api-version: 1.14
+website: https://bitcru.sh

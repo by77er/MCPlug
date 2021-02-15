@@ -1,0 +1,11 @@
+name: NoPvp
+version: 1.0.0
+author: by77er
+main: sh.bitcru.nopvp.NoPvp
+api-version: 1.14
+website: https://bitcru.sh
+commands:
+   nopvp:
+      description: Manages nopvp state
+      usage: /nopvp (get|set|reset) <player> [amt]
+      permission: nopvp.comm 
